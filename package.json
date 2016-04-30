@@ -1,0 +1,28 @@
+{
+  "name": "aamergerelativearray",
+  "version": "1.0.0",
+  "description": "Merge array when they have common element",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/liaa/aamergerelativearray"
+  },
+  "keywords": [
+    "array",
+    "merge"
+  ],
+  "author": "kidliaa <kidliaa@gmail.com>",
+  "license": "MIT"
+}
